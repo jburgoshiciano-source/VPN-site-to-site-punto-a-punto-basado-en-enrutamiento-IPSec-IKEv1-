@@ -1,7 +1,8 @@
 # VPN-site-to-site-punto-a-punto-basado-en-enrutamiento-IPSec-IKEv1
 
 
-**Juan Francisco Burgos Hiciano – 2023-1981**
+**Juan Francisco Burgos Hiciano**
+**2023-1981**
 
 📹 Video demostración: https://youtu.be/ECPA58dufoM
 
