@@ -28,6 +28,12 @@ El objetivo es permitir comunicación segura entre dos redes LAN remotas (Site A
 
 ---
 
+## 🖼️ Topología
+
+![Topología VPN](https://github.com/jburgoshiciano-source/VPN-site-to-site-punto-a-punto-basado-en-pol-ticas-IKEv1/blob/d23e0d65d52c49780f8bd311b8fe0ae018c5a713/vpn.png)
+
+---
+
 ## 🧱 2. Topología de Red
 
 - **IOU1 (ISP):** Router de tránsito entre ambos sitios.
